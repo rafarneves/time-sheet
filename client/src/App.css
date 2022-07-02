@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+input, .btnSubmit {
+  width: 200px;
+  height: 30px;
+  font-size: 20px;
+  margin-top: 5px;
+}
+label {
+  margin-top: 5px;
+}
